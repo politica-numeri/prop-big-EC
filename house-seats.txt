@@ -1,0 +1,52 @@
+State	Population	Seats
+California	37253956	1265
+Texas	25145561	838
+New York	19378102	645
+Florida	18801310	626
+Illinois	12830632	427
+Pennsylvania	12702379	423
+Ohio	11536504	384
+Michigan	9883640	329
+Georgia	9687653	322
+North Carolina	9535483	317
+New Jersey	8791894	293
+Virginia	8001024	266
+Washington	6724540	224
+Massachusetts	6547629	218
+Indiana	6483802	216
+Arizona	6392017	213
+Tennessee	6346105	211
+Missouri	5988927	199
+Maryland	5773552	192
+Wisconsin	5686986	189
+Minnesota	5303925	176
+Colorado	5029196	167
+Alabama	4779736	159
+South Carolina	4625364	154
+Louisiana	4533372	151
+Kentucky	4339367	144
+Oregon	3831074	127
+Oklahoma	3751351	125
+Connecticut	3574097	119
+Iowa	3046355	101
+Mississippi	2967297	98
+Arkansas	2915918	97
+Kansas	2853118	95
+Utah	2763885	92
+Nevada	2700551	90
+New Mexico	2059179	68
+West Virginia	1852994	61
+Nebraska	1826341	60
+Idaho	1567582	52
+Hawaii	1360301	45
+Maine	1328361	44
+New Hampshire	1316470	43
+Rhode Island	1052567	35
+Montana	989415	32
+Delaware	897934	29
+South Dakota	814180	27
+Alaska	710231	23
+North Dakota	672591	22
+Vermont	625741	20
+District of Columbia	601723	20
+Wyoming	563626	18
